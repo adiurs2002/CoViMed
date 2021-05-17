@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784964516937",
+    "project_id": "covidata-ac282",
+    "storage_bucket": "covidata-ac282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784964516937:android:5183d343b7010f664a9398",
+        "android_client_info": {
+          "package_name": "com.example.covimed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784964516937-l00m3he9ukitg5s69ll4d4h5des4a4ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzt_ecDxJ7nggKkN5k33kyz5vKzUNFCrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784964516937-l00m3he9ukitg5s69ll4d4h5des4a4ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
